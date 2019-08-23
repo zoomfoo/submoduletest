@@ -1,0 +1,3 @@
+[submodule "supersign"]
+	path = supersign
+	url = https://github.com/zoomfoo/supersign.git
